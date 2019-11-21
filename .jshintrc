@@ -1,0 +1,23 @@
+{
+  "esversion": 6,
+  "indent": 2,
+  "maxdepth": 2,
+  "maxlen": 80,
+  "passfail": false,
+  "vars": true,
+  "globals MY_LIB": true,
+  "undef": true,
+  "devel": true,
+  "exported EXPORTED_LIB": true,
+  "unused": true,
+  "strict": false,
+  "curly": true,
+  "eqeqeq": true,
+  "latedef": true,
+  "maxstatements": 12,
+  "funcscope": true,
+  "camelcase": true,
+  "maxdepth": 2,
+  "white": true,
+  "trailing": true
+}
